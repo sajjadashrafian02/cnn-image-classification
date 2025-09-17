@@ -1,2 +1,2 @@
 # cnn-image-classification
-In this project i've used a pre-trained Convolutional Neural Network (CNN) for image classification using the FastAI deep learning framework.
+In this project i've used a pre-trained Convolutional Neural Network (CNN) for image classification using the FastAI deep learning framework and also provided  a simple web-based interface for making predictions.
